@@ -1,0 +1,6 @@
+# Large files
+*.geojson
+*.csv
+*.html
+*.zip
+*.json
